@@ -1,5 +1,6 @@
 # Site Link
-https://aaryan-sorting-visualizer.netlify.app/
+
+https://mortal303.github.io/Sorting-Visualizer/
 
 # Sorting-Visualizer
 
